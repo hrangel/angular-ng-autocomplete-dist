@@ -1,0 +1,45 @@
+{
+  "name": "angular-ng-autocomplete",
+  "version": "1.1.14",
+  "description": "Angular autocomplete",
+  "keywords": [
+    "angular",
+    "angular-ng-autocomplete",
+    "angular autocomplete",
+    "angular-autocomplete",
+    "angular-auto-complete",
+    "autocomplete-component",
+    "ng-autocomplete",
+    "auto complete",
+    "autocomplete",
+    "angular-6",
+    "angular-7"
+  ],
+  "author": {
+    "name": "Giorgi Merabishvili",
+    "email": "gtmerabishvili@gmail.com",
+    "url": "https://www.linkedin.com/in/giorgi-merabishvili-3719a2121/"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gmerabishvili/angular-autocomplete"
+  },
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "main": "bundles/angular-ng-autocomplete.umd.js",
+  "module": "fesm5/angular-ng-autocomplete.js",
+  "es2015": "fesm2015/angular-ng-autocomplete.js",
+  "esm5": "esm5/angular-ng-autocomplete.js",
+  "esm2015": "esm2015/angular-ng-autocomplete.js",
+  "fesm5": "fesm5/angular-ng-autocomplete.js",
+  "fesm2015": "fesm2015/angular-ng-autocomplete.js",
+  "typings": "angular-ng-autocomplete.d.ts",
+  "metadata": "angular-ng-autocomplete.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
